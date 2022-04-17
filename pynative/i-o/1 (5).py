@@ -1,1 +1,0 @@
-# Exercise 9: Check file is empty or not
